@@ -1,4 +1,3 @@
-from statistics import mode
 from flaskapp import app
 
 
